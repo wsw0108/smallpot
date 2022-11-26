@@ -25,3 +25,7 @@ common
 *.bin
 *.param
 *.ini
+
+/build/
+.xmake/
+compile_commands.json
